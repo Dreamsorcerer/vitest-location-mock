@@ -45,7 +45,8 @@
 		"extends": "conventional-changelog-evelyn/release.config.js"
 	},
 	"dependencies": {
-		"@jedmao/location": "^3.0.0"
+		"@jedmao/location": "^3.0.0",
+		"extend-expect": "^3"
 	},
 	"devDependencies": {
 		"@semantic-release/changelog": "^6.0.3",
